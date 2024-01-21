@@ -1,6 +1,6 @@
 module github.com/goravel-kit/cnregion
 
-go 1.21
+go 1.20
 
 require (
 	github.com/goravel/framework v1.13.1-0.20240118041655-7e8125b66f17
